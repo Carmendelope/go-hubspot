@@ -1,5 +1,5 @@
-module github.com/belong-inc/go-hubspot/tools
+module github.com/Carmendelope/go-hubspot/tools
 
-go 1.20
+go 1.22.7
 
 require golang.org/x/text v0.14.0
